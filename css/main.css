@@ -1,0 +1,18 @@
+body{
+    color:blue;
+}
+
+label{
+    display: block;
+    margin-top: 20px;
+}
+
+input[type="submit"]{
+    display: black;
+    margin-top: 20px;
+}
+
+a {
+    text-transform: none; 
+    color:black;
+}
